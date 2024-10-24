@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Level26 {
+public class hangman {
 	
 	static int numWins = 0;
 	static int numLosses = 0;
